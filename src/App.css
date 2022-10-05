@@ -38,3 +38,6 @@
 .arrow-icon:hover{
  cursor: pointer;
 }
+.enter-info-header-text{
+  font-size: 12px;
+}

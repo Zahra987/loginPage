@@ -8,7 +8,7 @@ export default function EnterInfo({handleClick,info}) {
     <form>
       <div className='container-fluid mydiv ' >
        <div className='row justify-content-center align-items-center ' >
-        <div className='col-sm-6 p-4 my-5' >
+        <div className='col-sm-7 col-lg-5  p-4 my-5' >
           <EnterInfoHeader info={info} handleClick={handleClick} />
           <Input info={info} />
           <Button info={info} />

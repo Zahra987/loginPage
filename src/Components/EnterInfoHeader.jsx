@@ -16,7 +16,7 @@ export default function EnterInfoHeader({info,handleClick}) {
           <div className='col' >
             <div className='info-text' >
               <CgEnter/> {info.titr}  <br/> 
-              کاربر محترم برای ورود لطفا شماره موبایل خود را وارد نمایید
+              <div className='enter-info-header-text' >کاربر محترم برای ورود لطفا شماره موبایل خود را وارد نمایید</div>
             </div>
           </div>
        </div>
