@@ -1,5 +1,6 @@
-.my-div{
+.mydiv{
   background-color:#f8f9fa;
+  height: 100vh;
 }
 .v-kh-f{
   display: flex;
