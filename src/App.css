@@ -15,19 +15,6 @@
  text-align:center;
  padding: 7px;
 }
-.foot-container{
-  text-align:end;
-  padding-top: 7px;
-  padding-bottom: 15px;
-}
-.head-info{
- text-align:end;
- padding:7px;
-}
-.info-text{
-  text-align:end;
-  padding:7px;
-}
 .input{
  border:none;
  overflow:hidden;
@@ -40,4 +27,11 @@
 }
 .enter-info-header-text{
   font-size: 12px;
+}
+.error-div{
+ font-size: 10px;
+ color: red;
+}
+.infi-text-header{
+ line-height: 2;
 }
